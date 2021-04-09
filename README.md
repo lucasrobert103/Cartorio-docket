@@ -1,6 +1,6 @@
 <!--Banner session-->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocket.com.br%2F&psig=AOvVaw0Ktzg7a2IPOLSEx-XXF6WQ&ust=1618077821920000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiQj-Pf8e8CFQAAAAAdAAAAABAD" alt="DIO" title="Digital Innovation One">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocket.com.br%2Fcontato&psig=AOvVaw3sHtY5VeT7VD-N9mNrVNri&ust=1618078351167000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDom97h8e8CFQAAAAAdAAAAABAb" alt="DIO" title="Digital Innovation One">
 </p>
 
 <!--About session-->https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocket.com.br%2F&psig=AOvVaw0Ktzg7a2IPOLSEx-XXF6WQ&ust=1618077821920000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiQj-Pf8e8CFQAAAAAdAAAAABAD
